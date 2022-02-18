@@ -26,7 +26,7 @@ a{
     
 }
 .parallax{
-    background-image: url(./images/ryder-cash-media-3DrRK-NlsXk-unsplash.jpg);
+    background-image: url(/images/ryder-cash-media-3DrRK-NlsXk-unsplash.jpg);
     /* height: 400px;  */
     background-attachment: fixed;
     background-position: center;
@@ -35,7 +35,7 @@ a{
     /* Photo by Ryder Cash Media on Unsplash */
 }
 .parallax2{
-    background-image: url(./images/ryder-cash-media-copy2.jpg);
+    background-image: url(/images/ryder-cash-media-copy2.jpg);
     /* height: 30vh; */
     background-attachment: fixed;
     background-position: center;
